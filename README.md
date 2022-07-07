@@ -9,6 +9,6 @@ The files included are:
 - /img - The background image file for the website.
 - /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 - /css - CSS files for the website.
-- /documents - pdf file with step-by-step custom configuration  
+- /documents - pdf file with step-by-step custom configurations
 
 
