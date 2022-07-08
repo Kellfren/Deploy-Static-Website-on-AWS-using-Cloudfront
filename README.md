@@ -11,4 +11,5 @@ The files included are:
 - /css - CSS files for the website.
 - /documents - pdf file with step-by-step custom configurations
 
+You can access to the website using this Cloudfront [Static-Website](https://d1fa2moklif1nl.cloudfront.net/)
 
